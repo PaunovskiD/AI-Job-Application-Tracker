@@ -32,12 +32,14 @@ Instead of tracking applications in spreadsheets or notes, users can organize ev
 
 ---
 
-## 🛠 Built With
+## 🛠 Tech Stack
 
 - Lovable
-- AI Prompt Engineering
-- Modern Responsive UI
-
+- React
+- TypeScript
+- Tailwind CSS
+- Supabase
+- AI Prompt Engineering    
 ---
 
 ## 📸 Screenshots
