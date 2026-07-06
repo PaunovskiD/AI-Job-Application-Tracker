@@ -46,19 +46,11 @@ Instead of tracking applications in spreadsheets or notes, users can organize ev
 
 ## 📸 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
----
+![Add Application](screenshots/add-application.png)
 
-## ➕ Add Application
-
-![Add Application](add-application.png)
-
----
-
-## 🤖 AI Insights
-
-![AI Insights](ai-insights.png)   
+![AI Insights](screenshots/ai-insights.png)      
 
 ---
 
