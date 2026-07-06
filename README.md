@@ -56,7 +56,7 @@ Instead of tracking applications in spreadsheets or notes, users can organize ev
 
 ## 🤖 AI Insights
 
-![AI Insights](ai-insights.png)
+![AI Insights](ai-insights.png)   
 
 ---
 
